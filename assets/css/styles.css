@@ -451,6 +451,7 @@ img {
 .footer__title {
   font-size: 2rem;
   margin-bottom: var(--mb-4);
+  margin-top: 2rem;
 }
 
 .footer__social {
